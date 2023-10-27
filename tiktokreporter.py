@@ -41,7 +41,7 @@ print(" ")
  #          ▐        ▐                 ▐    ▐    ▐        """)        
 print(" ")
 
-x = input('Full TikTok URL Here: ')
+x = input('Full TikTok URL Here:https://www.tiktok.com/@kurd.azhanss/video/7294364851961384198?is_from_webapp=1&sender_device=pc&web_id=7294759206514755078 ')
 
 s = Service("C:\WebDriver\chromedriver.exe")
 driver = webdriver.Chrome(service=s)
